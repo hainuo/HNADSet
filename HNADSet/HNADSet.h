@@ -6,7 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
-
-@interface HNADSet : NSObject
+#import "UZEngine/UZModule.h"
+#import "UZEngine/NSDictionaryUtils.h"
+@interface HNADSet :UZModule
 
 @end
